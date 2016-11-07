@@ -42,7 +42,6 @@ public class JOptionPaneDemo extends JFrame
 				}
 			}
 		final String[] genre = { "Dungeon", "Wilderness", "Sci-Fi", "Random" };
-
 			{
 			final JFrame frame = new JFrame();
 		    String favoritePizza = (String) JOptionPane.showInputDialog(frame, 
